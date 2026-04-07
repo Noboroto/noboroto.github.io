@@ -1,0 +1,34 @@
+{
+	"name": "Image-Retrieval-System",
+	"description": null,
+	"url": "https://github.com/Noboroto/Image-Retrieval-System",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"opencv",
+		"image-retrieval",
+		"sift",
+		"color-histogram",
+		"computer-vision",
+		"cmake",
+		"content-based-retrieval",
+		"academic-project"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-07-23T16:05:25Z",
+	"createdAt": "2024-05-07T06:22:29Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"computer-vision",
+		"data-processing"
+	],
+	"displayDescription": "Content-based image retrieval engine that searches and ranks images by visual similarity. Needed for building visual search applications. Works by extracting SIFT features and color histograms from images, then matching query images against a dataset using OpenCV. Contains C++20 CBIR implementation with CMake build. Used by CV researchers and students.",
+	"languages": [
+		"C++",
+		"C"
+	]
+}

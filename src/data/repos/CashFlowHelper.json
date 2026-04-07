@@ -1,0 +1,26 @@
+{
+	"name": "CashFlowHelper",
+	"description": null,
+	"url": "https://github.com/Noboroto/CashFlowHelper",
+	"homepage": null,
+	"language": "JavaScript",
+	"topics": [
+		"react",
+		"vite",
+		"javascript",
+		"personal-finance",
+		"web-app",
+		"cashflow"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-01-28T18:38:19Z",
+	"createdAt": "2024-11-18T03:16:48Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Personal finance tracker web app inspired by Kiyosaki's Cashflow game. Tracks income, expenses, assets, and liabilities to help users visualize their path out of the \"Rat Race.\" Built with React, Vite."
+}

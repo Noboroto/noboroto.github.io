@@ -1,0 +1,23 @@
+{
+	"name": "Code-Pascal",
+	"description": "My Code Pascal",
+	"url": "https://github.com/Noboroto/Code-Pascal",
+	"homepage": null,
+	"language": "Pascal",
+	"topics": [
+		"pascal",
+		"competitive-programming",
+		"algorithms"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2020-07-02T06:57:41Z",
+	"createdAt": "2021-01-17T04:27:24Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"competitive-programming"
+	],
+	"displayDescription": "Pascal competitive programming solutions and practice code collection."
+}

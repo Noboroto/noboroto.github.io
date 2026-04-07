@@ -1,0 +1,30 @@
+{
+	"name": "my-tiny-url",
+	"description": null,
+	"url": "https://github.com/Noboroto/my-tiny-url",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"url-shortener",
+		"shlink",
+		"docker",
+		"mariadb",
+		"oauth2-proxy",
+		"self-hosted",
+		"devops",
+		"google-auth"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-11-07T15:23:04Z",
+	"createdAt": "2025-03-20T05:33:11Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayName": "My Tiny URL",
+	"displayDescription": "Self-hosted URL shortener using Shlink with a custom web client frontend. Gives individuals and small teams a private, branded link shortening service with full analytics control. Contains 3 parts: Shlink backend, custom frontend client, and MariaDB database, with OAuth2-Proxy for Google authentication. Deployed via Docker Compose on custom domain.",
+	"private": true
+}

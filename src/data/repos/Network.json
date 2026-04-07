@@ -1,0 +1,28 @@
+{
+	"name": "Network",
+	"description": null,
+	"url": "https://github.com/Noboroto/Network",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"csharp",
+		"udp-socket",
+		"client-server",
+		"network-programming",
+		"dotnet",
+		"socket-programming",
+		"academic-project"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2020-07-01T09:55:23Z",
+	"createdAt": "2022-10-07T16:18:54Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"desktop-app"
+	],
+	"displayDescription": "UDP client-server socket programming implementation in C# demonstrating basic network communication with text message exchange. Hands-on coursework for students learning computer networking fundamentals on Windows. Built with C#, .NET.",
+	"private": true
+}

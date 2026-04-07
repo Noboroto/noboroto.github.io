@@ -1,0 +1,29 @@
+{
+	"name": "Bitmap-Cutting-Cpp",
+	"description": null,
+	"url": "https://github.com/Noboroto/Bitmap-Cutting-Cpp",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"bitmap",
+		"image-processing",
+		"image-cropping",
+		"cli-tool",
+		"file-format",
+		"binary-io",
+		"computer-graphics"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-12-10T12:08:11Z",
+	"createdAt": "2022-01-03T06:58:20Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"data-processing"
+	],
+	"displayDescription": "CLI tool that reads BMP files, parses bitmap headers/DIB/pixel data, and splits images into a grid of sub-images by specified row and column partitions. Useful for developers needing programmatic image region extraction without heavy library dependencies. Built in C++ with low-level binary file I/O.",
+	"private": true
+}

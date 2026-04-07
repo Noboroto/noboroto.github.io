@@ -1,0 +1,29 @@
+{
+	"name": "Portfolio",
+	"description": null,
+	"url": "https://github.com/Noboroto/Portfolio",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"typescript",
+		"astro",
+		"tailwindcss",
+		"portfolio",
+		"personal-website",
+		"github-pages",
+		"pnpm",
+		"static-site"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-04-07T17:53:21Z",
+	"createdAt": "2023-06-21T07:26:05Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Personal developer portfolio website showcasing projects, skills, and experience. Designed for recruiters, collaborators, and hiring managers to quickly assess technical background and project highlights. Features project filtering by domain/language, dark mode, and responsive layout. Contains Astro pages, reusable components, and curated project data. Built with Astro 6, Tailwind CSS v4, TypeScript, deployed via GitHub Pages.",
+	"private": false
+}

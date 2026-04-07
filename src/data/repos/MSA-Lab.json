@@ -1,0 +1,25 @@
+{
+	"name": "MSA-Lab",
+	"description": null,
+	"url": "https://github.com/Noboroto/MSA-Lab",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"statistics",
+		"multivariate-analysis",
+		"coursework",
+		"lab-assignment"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-03-13T06:04:55Z",
+	"createdAt": "2024-03-27T06:47:17Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"data-processing",
+		"learning"
+	],
+	"displayDescription": "Multivariate Statistical Analysis (CSC16003) lab exercises from HCMUS High-Quality Program."
+}

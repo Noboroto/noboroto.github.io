@@ -1,0 +1,33 @@
+{
+	"name": "Thesis",
+	"description": null,
+	"url": "https://github.com/Noboroto/Thesis",
+	"homepage": null,
+	"language": "Python",
+	"topics": [
+		"computer-vision",
+		"face-recognition",
+		"pose-estimation",
+		"deep-learning",
+		"docker",
+		"security",
+		"thesis",
+		"pytorch",
+		"arcface",
+		"st-gcn"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-08-12T12:42:00Z",
+	"createdAt": "2024-08-27T03:52:49Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "featured",
+	"domain": [
+		"ml",
+		"computer-vision"
+	],
+	"displayDescription": "Dual-pipeline security monitoring system combining face recognition (ArcFace) and skeleton-based behavior analysis (ST-GCN) for stranger and anomaly detection. Research thesis for HCMUS CS graduation. Contains training pipelines, evaluation scripts, and LaTeX thesis document. Built with Python, PyTorch, Docker.",
+	"private": true,
+	"priority": 5
+}

@@ -1,0 +1,30 @@
+{
+	"name": "ShutdownRemoteConsole",
+	"description": null,
+	"url": "https://github.com/Noboroto/ShutdownRemoteConsole",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"remote-shutdown",
+		"csharp",
+		"dotnet",
+		"client-server",
+		"networking",
+		"windows",
+		"system-administration",
+		"console-app"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2020-09-19T14:46:09Z",
+	"createdAt": "2021-12-13T13:41:33Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"desktop-app",
+		"cli-tool"
+	],
+	"displayDescription": "Remote shutdown console for Windows machines over a local network. Useful for IT admins and lab managers needing to power off multiple PCs from a single workstation. Works via TCP client-server communication. Contains 2 parts: ShutdownRemoteClient and ShutdownRemoteServer console apps. Built with C#, .NET.",
+	"private": true
+}

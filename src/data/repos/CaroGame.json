@@ -1,0 +1,29 @@
+{
+	"name": "CaroGame",
+	"description": null,
+	"url": "https://github.com/Noboroto/CaroGame",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"gomoku",
+		"caro-game",
+		"console-game",
+		"windows",
+		"game-development",
+		"university-project",
+		"sound-effects"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-12-11T04:08:31Z",
+	"createdAt": "2022-01-04T06:10:01Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"game"
+	],
+	"displayDescription": "Console-based Caro (Gomoku) game for Windows with colorful terminal rendering, sound effects, save/load functionality, and player account tracking. A fun university project letting two players compete in the popular Vietnamese strategy game. Built with C++.",
+	"priority": 3
+}

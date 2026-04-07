@@ -1,0 +1,24 @@
+{
+	"name": "ICPC-Notebook",
+	"description": null,
+	"url": "https://github.com/Noboroto/ICPC-Notebook",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"competitive-programming",
+		"icpc",
+		"algorithms",
+		"reference-notebook"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-11-30T14:21:06Z",
+	"createdAt": "2022-11-05T10:54:57Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"competitive-programming"
+	],
+	"displayDescription": "ICPC competitive programming reference notebook with algorithm templates for BIT, disjoint set, and number theory."
+}

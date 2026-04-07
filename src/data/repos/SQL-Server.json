@@ -1,0 +1,25 @@
+{
+	"name": "SQL-Server",
+	"description": null,
+	"url": "https://github.com/Noboroto/SQL-Server",
+	"homepage": null,
+	"language": "TSQL",
+	"topics": [
+		"sql-server",
+		"tsql",
+		"database",
+		"coursework",
+		"lab-assignment"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-08-14T04:52:15Z",
+	"createdAt": "2022-09-04T06:51:39Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "SQL Server coursework including weekly lab exercises, midterm, and final lab with T-SQL queries."
+}

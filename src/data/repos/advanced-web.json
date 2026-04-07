@@ -1,0 +1,28 @@
+{
+	"name": "advanced-web",
+	"description": null,
+	"url": "https://github.com/Noboroto/advanced-web",
+	"homepage": null,
+	"language": "PLpgSQL",
+	"topics": [
+		"nodejs",
+		"postgresql",
+		"express",
+		"swagger",
+		"docker",
+		"full-stack",
+		"plpgsql",
+		"coursework"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-11-27T02:40:01Z",
+	"createdAt": "2024-08-27T05:26:55Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Full-stack web project with Node.js backend, PostgreSQL database with PL/pgSQL stored procedures, Swagger API docs, and Docker Compose setup. University coursework demonstrating advanced server-side architecture."
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Code-JavaScript",
+	"description": "My JavaScript Code",
+	"url": "https://github.com/Noboroto/Code-JavaScript",
+	"homepage": null,
+	"language": "JavaScript",
+	"topics": [
+		"javascript",
+		"typescript",
+		"html-games",
+		"web-development"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-01-16T03:21:19Z",
+	"createdAt": "2021-04-05T14:20:06Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"web",
+		"learning"
+	],
+	"displayDescription": "JavaScript and TypeScript exercises including interactive HTML games (CarRace, FlowerGarden) and TypeScript practice."
+}

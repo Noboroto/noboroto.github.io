@@ -1,0 +1,22 @@
+{
+	"name": "DaCamOpenSource",
+	"description": null,
+	"url": "https://github.com/Noboroto/DaCamOpenSource",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"open-source",
+		"gpl-license"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-11-16T01:12:27Z",
+	"createdAt": "2023-03-15T14:59:44Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "Open source project placeholder repository with GPL-3.0 license."
+}

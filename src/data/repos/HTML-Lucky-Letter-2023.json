@@ -1,0 +1,21 @@
+{
+	"name": "HTML-Lucky-Letter-2023",
+	"description": null,
+	"url": "https://github.com/Noboroto/HTML-Lucky-Letter-2023",
+	"homepage": null,
+	"language": "HTML",
+	"topics": [],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-01-21T07:32:52Z",
+	"createdAt": "2023-01-15T07:20:40Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayName": "SAB Lucky Letter 2023",
+	"displayDescription": "Interactive lucky letter web experience for HCMUS SAB's 2023 Lunar New Year celebration. Engages university students with a fun digital tradition during the festival season.",
+	"private": true
+}

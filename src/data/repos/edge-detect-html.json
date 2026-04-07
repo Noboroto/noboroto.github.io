@@ -1,0 +1,29 @@
+{
+	"name": "edge-detect-html",
+	"description": null,
+	"url": "https://github.com/Noboroto/edge-detect-html",
+	"homepage": null,
+	"language": "HTML",
+	"topics": [
+		"edge-detection",
+		"sobel-filter",
+		"html5-canvas",
+		"javascript",
+		"image-processing",
+		"computer-vision",
+		"real-time",
+		"video-processing"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-03-26T08:20:35Z",
+	"createdAt": "2024-01-20T07:17:00Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"computer-vision",
+		"web"
+	],
+	"displayDescription": "Browser-based real-time Sobel edge detection app. An educational tool for students learning computer vision without needing Python or C++ setup. Works by applying convolution filters to video frames using HTML5 Canvas and vanilla JavaScript. Features adjustable threshold, resolution scaling, and adaptive frame skipping for performance."
+}

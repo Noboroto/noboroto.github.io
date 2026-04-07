@@ -1,0 +1,38 @@
+{
+	"name": "data-tuyensinh",
+	"description": null,
+	"url": "https://github.com/Noboroto/data-tuyensinh",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"typescript",
+		"react",
+		"express",
+		"postgresql",
+		"prisma",
+		"redis",
+		"elasticsearch",
+		"mui",
+		"data-visualization",
+		"docker",
+		"better-auth",
+		"university-admission",
+		"nivo",
+		"echarts"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-04-04T15:40:59Z",
+	"createdAt": "2025-05-15T08:44:33Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"web",
+		"data-processing"
+	],
+	"displayName": "Student Admission Manager",
+	"displayDescription": "Full-stack university admission data management system. Helps Vietnamese university admissions offices analyze and manage applicant data efficiently. Features dashboards with Nivo/ECharts heatmaps, Elasticsearch full-text search, Excel import/export, and Better Auth RBAC. Contains 2 parts: React + MUI frontend with data visualization, and Express + Prisma + PostgreSQL + Redis backend. Dockerized with production compose.",
+	"private": true,
+	"priority": 8
+}

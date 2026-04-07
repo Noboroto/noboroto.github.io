@@ -1,0 +1,25 @@
+{
+	"name": "SampleThrowException",
+	"description": null,
+	"url": "https://github.com/Noboroto/SampleThrowException",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"csharp",
+		"wpf",
+		"exception-handling",
+		"xaml",
+		"dotnet"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2020-08-08T16:29:10Z",
+	"createdAt": "2022-09-12T17:01:36Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "C# WPF sample application demonstrating exception handling patterns with XAML-based UI."
+}

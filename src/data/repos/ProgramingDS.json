@@ -1,0 +1,26 @@
+{
+	"name": "ProgramingDS",
+	"description": null,
+	"url": "https://github.com/Noboroto/ProgramingDS",
+	"homepage": null,
+	"language": "Jupyter Notebook",
+	"topics": [
+		"jupyter",
+		"python",
+		"data-science",
+		"coursework",
+		"lab-assignment"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-12-13T09:29:14Z",
+	"createdAt": "2023-09-14T13:38:24Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"data-processing",
+		"learning"
+	],
+	"displayDescription": "Programming for Data Science coursework with weekly homework and lab assignments in Jupyter notebooks."
+}

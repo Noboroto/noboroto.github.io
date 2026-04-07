@@ -1,8 +1,10 @@
 import type { RepoData } from './types';
-import reposData from '../data/repos.json';
+
+const repoModules = import.meta.glob<RepoData>('../data/repos/*.json', { eager: true, import: 'default' });
+const reposData: RepoData[] = Object.values(repoModules);
 
 export function getAllRepos(): RepoData[] {
-  return (reposData as RepoData[]).sort(
+  return reposData.sort(
     (a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime(),
   );
 }
@@ -15,8 +17,16 @@ export function getByTier(tier: RepoData['tier']): RepoData[] {
   return getVisibleRepos().filter((r) => r.tier === tier);
 }
 
+export function getLearningRepos(): RepoData[] {
+  return getAllRepos().filter((r) => r.tier === 'learning');
+}
+
 export function getFeatured(): RepoData[] {
-  return getByTier('featured');
+  return getByTier('featured').sort((a, b) => {
+    const pDiff = (b.priority ?? 0) - (a.priority ?? 0);
+    if (pDiff !== 0) return pDiff;
+    return new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime();
+  });
 }
 
 export function getRepoLanguages(r: RepoData): string[] {

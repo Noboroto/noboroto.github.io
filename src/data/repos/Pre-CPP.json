@@ -1,0 +1,25 @@
+{
+	"name": "Pre-CPP",
+	"description": null,
+	"url": "https://github.com/Noboroto/Pre-CPP",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"cpp",
+		"vscode",
+		"setup-guide",
+		"windows",
+		"developer-tools"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2022-07-01T17:22:03Z",
+	"createdAt": "2021-10-03T12:10:28Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "Step-by-step Vietnamese guide for setting up C++ development environment in VS Code on Windows with TDM-GCC."
+}

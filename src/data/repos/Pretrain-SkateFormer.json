@@ -1,0 +1,37 @@
+{
+	"name": "Pretrain-SkateFormer",
+	"description": null,
+	"url": "https://github.com/Noboroto/Pretrain-SkateFormer",
+	"homepage": null,
+	"language": "Python",
+	"topics": [
+		"deep-learning",
+		"action-recognition",
+		"anomaly-detection",
+		"skeleton-based",
+		"pytorch",
+		"python",
+		"computer-vision",
+		"graph-neural-network",
+		"normalizing-flow",
+		"research",
+		"skateformer",
+		"st-gcn",
+		"docker"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-04-01T07:43:26Z",
+	"createdAt": "2025-01-10T07:30:22Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"ml",
+		"computer-vision",
+		"data-processing"
+	],
+	"displayDescription": "Training and anomaly detection evaluation codebase for SkateFormer (ECCV 2024) and ST-GCN++ skeleton-based action recognition models. Needed for thesis research on behavior anomaly detection. Contains skeleton extraction pipelines (YOLO-Pose, HRNet), normalizing flow scorers, and multi-dataset benchmarking on ShanghaiTech/Avenue/UBnormal. Used by CV researchers. Built with Python, PyTorch.",
+	"private": true,
+	"priority": 7
+}

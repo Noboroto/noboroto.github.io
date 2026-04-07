@@ -1,0 +1,25 @@
+{
+	"name": "Koltin-Course",
+	"description": null,
+	"url": "https://github.com/Noboroto/Koltin-Course",
+	"homepage": null,
+	"language": "Kotlin",
+	"topics": [
+		"kotlin",
+		"android",
+		"mobile-development",
+		"coursework"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2022-11-16T09:36:15Z",
+	"createdAt": "2024-04-10T14:47:36Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"mobile",
+		"learning"
+	],
+	"displayDescription": "Kotlin learning exercises including a Happy Birthday app project from an Android development course."
+}

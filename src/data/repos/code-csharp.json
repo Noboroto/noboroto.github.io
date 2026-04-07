@@ -1,0 +1,23 @@
+{
+	"name": "code-csharp",
+	"description": null,
+	"url": "https://github.com/Noboroto/code-csharp",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"csharp",
+		"dotnet",
+		"programming-practice"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-01-13T01:36:51Z",
+	"createdAt": "2022-09-11T15:09:00Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "C# code collection for learning and practicing .NET development."
+}

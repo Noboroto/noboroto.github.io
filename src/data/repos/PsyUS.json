@@ -1,0 +1,35 @@
+{
+	"name": "PsyUS",
+	"description": null,
+	"url": "https://github.com/Noboroto/PsyUS",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"nextjs",
+		"nestjs",
+		"typescript",
+		"postgresql",
+		"prisma",
+		"better-auth",
+		"healthcare",
+		"booking-platform",
+		"docker",
+		"monorepo",
+		"react",
+		"fastify",
+		"mui"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-04-06T03:45:20Z",
+	"createdAt": "2025-06-10T04:22:15Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"web"
+	],
+	"priority": 8,
+	"displayDescription": "Psychological counselling appointment booking platform for university students. Needed to connect students with counselors through streamlined scheduling. Features appointment booking, availability management, session tracking, and role-based access. Contains 2 parts: Next.js 16 frontend (React 19, MUI 7) and NestJS 11 + Fastify backend, backed by PostgreSQL 17 with Prisma ORM and Better Auth. Dockerized monorepo.",
+	"private": true
+}

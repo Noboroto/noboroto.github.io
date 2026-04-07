@@ -1,0 +1,26 @@
+{
+	"name": "Horse-Board-Game",
+	"description": null,
+	"url": "https://github.com/Noboroto/Horse-Board-Game",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"board-game",
+		"co-ngua",
+		"game-development",
+		"work-in-progress"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2022-08-18T11:25:56Z",
+	"createdAt": "2022-05-14T14:28:36Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "specialized",
+	"domain": [
+		"game"
+	],
+	"displayDescription": "Placeholder repository for a C++ digital board game project (Co Ngua / Ludo-style). Currently contains only configuration files. Work in progress.",
+	"private": true
+}

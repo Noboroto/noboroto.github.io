@@ -1,0 +1,25 @@
+{
+	"name": "Hello-Flutter",
+	"description": null,
+	"url": "https://github.com/Noboroto/Hello-Flutter",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"flutter",
+		"dart",
+		"mobile-development",
+		"hello-world"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-02-01T13:08:40Z",
+	"createdAt": "2024-04-10T14:47:50Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"mobile",
+		"learning"
+	],
+	"displayDescription": "Starter Flutter project for learning cross-platform mobile app development with Dart."
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Code-Latex",
+	"description": null,
+	"url": "https://github.com/Noboroto/Code-Latex",
+	"homepage": null,
+	"language": "TeX",
+	"topics": [
+		"latex",
+		"academic-writing",
+		"coursework",
+		"typesetting",
+		"university"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-10-31T09:09:50Z",
+	"createdAt": "2022-12-14T05:22:43Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "Extensive LaTeX document collection for university courses covering calculus, physics, DSA, computer networks, and more."
+}

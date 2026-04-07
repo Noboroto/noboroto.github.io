@@ -1,0 +1,25 @@
+{
+	"name": "video-750",
+	"description": null,
+	"url": "https://github.com/Noboroto/video-750",
+	"homepage": null,
+	"language": "JavaScript",
+	"topics": [
+		"react",
+		"javascript",
+		"tailwindcss",
+		"frontend",
+		"json-server"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-12-11T16:01:15Z",
+	"createdAt": "2024-10-18T16:32:05Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "React 17 web application built with Create React App, Tailwind CSS, and json-server for mock API."
+}

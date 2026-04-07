@@ -1,0 +1,23 @@
+{
+	"name": "Lab3-B5-david0403",
+	"description": null,
+	"url": "https://github.com/Noboroto/Lab3-B5-david0403",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"lab-assignment",
+		"programming-fundamentals"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-11-20T13:16:57Z",
+	"createdAt": "2022-05-13T07:42:28Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "C++ lab exercise solution for Lab 3, problem 5 from introductory programming course."
+}

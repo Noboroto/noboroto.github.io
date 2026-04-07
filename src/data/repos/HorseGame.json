@@ -1,0 +1,28 @@
+{
+	"name": "HorseGame",
+	"description": null,
+	"url": "https://github.com/Noboroto/HorseGame",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"board-game",
+		"console-game",
+		"game-development",
+		"windows",
+		"dice-game",
+		"multiplayer",
+		"vietnamese-game"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-11-24T14:57:47Z",
+	"createdAt": "2022-05-14T14:27:49Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"game"
+	],
+	"displayDescription": "Console-based board game where players roll dice to race horses across configurable grid maps (3x3 to 7x7) with directional cells, blocking, and kicking mechanics. Supports 2-4 players with account persistence. A fun Vietnamese strategy game built with C++ for Windows console."
+}

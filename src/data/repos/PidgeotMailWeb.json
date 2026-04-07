@@ -1,0 +1,25 @@
+{
+	"name": "PidgeotMailWeb",
+	"description": null,
+	"url": "https://github.com/Noboroto/PidgeotMailWeb",
+	"homepage": null,
+	"language": "HTML",
+	"topics": [
+		"html",
+		"landing-page",
+		"gmail",
+		"mail-merge",
+		"marketing-site"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-09-13T13:19:42Z",
+	"createdAt": "2022-01-14T12:18:53Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Landing page and web companion for PidgeotMail desktop app. Showcases features of the Gmail mail merge tool for users to learn about and download the desktop application."
+}

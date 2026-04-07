@@ -1,0 +1,30 @@
+{
+	"name": "Visual_Image_Retrieval",
+	"description": null,
+	"url": "https://github.com/Noboroto/Visual_Image_Retrieval",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"image-retrieval",
+		"computer-vision",
+		"content-based-retrieval",
+		"cmake",
+		"feature-extraction",
+		"university-project",
+		"color-histogram"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-06-22T01:46:47Z",
+	"createdAt": "2024-06-28T03:26:23Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"computer-vision",
+		"data-processing"
+	],
+	"displayDescription": "Visual information retrieval lab assignments implementing content-based image retrieval algorithms. Contains 3 labs covering color histograms, feature extraction, and similarity search in C++ with CMake. Used by CV students building image search applications at HCMUS.",
+	"private": true
+}

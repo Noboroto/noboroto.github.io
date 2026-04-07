@@ -1,0 +1,27 @@
+{
+	"name": "Code-CPP",
+	"description": "All Source C++ of Competitive Programing",
+	"url": "https://github.com/Noboroto/Code-CPP",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"competitive-programming",
+		"leetcode",
+		"codeforces",
+		"algorithms",
+		"data-structures",
+		"docker"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-05-08T19:49:48Z",
+	"createdAt": "2021-01-17T04:36:06Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"competitive-programming"
+	],
+	"displayDescription": "Comprehensive C++ competitive programming solutions from Codeforces, Leetcode, HackerRank, VOJ, ICPC training, and university coursework."
+}

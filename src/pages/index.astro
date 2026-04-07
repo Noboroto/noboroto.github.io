@@ -8,20 +8,22 @@ import ProjectGrid from '../components/ProjectGrid.astro';
 import Skills from '../components/Skills.astro';
 import Contact from '../components/Contact.astro';
 import Footer from '../components/Footer.astro';
-import { getVisibleRepos, getFeatured, getLanguages, getDomains } from '../lib/categorize';
+import { getVisibleRepos, getFeatured, getLanguages, getDomains, getLearningRepos, getAllRepos } from '../lib/categorize';
 
 const visibleRepos = getVisibleRepos();
 const featured = getFeatured();
 const languages = getLanguages();
 const domains = getDomains();
+const learningRepos = getLearningRepos();
+const dockerizedCount = getAllRepos().filter(r => r.topics.includes('docker')).length;
 ---
 
 <BaseLayout title="Thanh Tu Vo | Portfolio">
   <Navbar />
   <Hero />
-  <About totalRepos={visibleRepos.length} languages={languages} />
+  <About totalRepos={visibleRepos.length} languages={languages} dockerizedCount={dockerizedCount} />
   <FeaturedProjects repos={featured} />
-  <ProjectGrid repos={visibleRepos} domains={domains} languages={languages} />
+  <ProjectGrid repos={visibleRepos} learningRepos={learningRepos} domains={domains} languages={languages} />
   <Skills />
   <Contact />
   <Footer />

@@ -1,0 +1,25 @@
+{
+	"name": "Code-HTML",
+	"description": "My HTML",
+	"url": "https://github.com/Noboroto/Code-HTML",
+	"homepage": null,
+	"language": "HTML",
+	"topics": [
+		"html",
+		"css",
+		"email-templates",
+		"web-design"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-07-15T23:04:25Z",
+	"createdAt": "2021-04-04T14:46:49Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"web",
+		"learning"
+	],
+	"displayDescription": "HTML/CSS code collection including SAB email templates, infographics, and web design practice."
+}

@@ -1,0 +1,23 @@
+{
+	"name": "HelloWorldCPP",
+	"description": null,
+	"url": "https://github.com/Noboroto/HelloWorldCPP",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"hello-world",
+		"beginner"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-11-19T12:12:22Z",
+	"createdAt": "2021-01-14T13:17:34Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "Minimal C++ hello world program for getting started with C++ development."
+}

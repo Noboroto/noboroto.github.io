@@ -1,0 +1,25 @@
+{
+	"name": "bkhanh-wordpress",
+	"description": null,
+	"url": "https://github.com/Noboroto/bkhanh-wordpress",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"wordpress",
+		"docker",
+		"mariadb",
+		"docker-compose",
+		"self-hosted"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-11-18T16:53:30Z",
+	"createdAt": "2023-02-22T09:56:31Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Docker Compose setup for a WordPress site with MariaDB in a multi-domain network configuration."
+}

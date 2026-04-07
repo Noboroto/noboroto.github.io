@@ -1,0 +1,46 @@
+{
+	"name": "aiot-smart-greenhouse",
+	"description": "AIoT Smart Greenhouse System",
+	"url": "https://github.com/nhnhu146/aiot-smart-greenhouse",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"aiot",
+		"iot",
+		"smart-greenhouse",
+		"esp32",
+		"mqtt",
+		"nextjs",
+		"expressjs",
+		"mongodb",
+		"redis",
+		"docker",
+		"websocket",
+		"react",
+		"typescript",
+		"real-time",
+		"sensor-monitoring",
+		"devops",
+		"agriculture"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-09-26T13:22:43Z",
+	"createdAt": "2025-01-01T00:00:00Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"iot",
+		"web"
+	],
+	"displayName": "AIoT Smart Greenhouse",
+	"displayDescription": "Full-stack AIoT greenhouse monitoring and control system. Needed for automated agricultural environment management using IoT sensors. Features real-time sensor dashboards (temperature, humidity, soil moisture, water level, light, rain), automated device control (fans, pumps, lights, windows), MQTT-based ESP32 communication, configurable alert thresholds, and email notifications. Contains 4 parts: ESP32 embedded firmware (C++), Node.js/Express backend with MongoDB + Redis, Next.js frontend with WebSocket live updates, and Docker Compose deployment. Built for an HCMUS IoT course. Used by agriculture enthusiasts and IoT students.",
+	"languages": [
+		"TypeScript",
+		"JavaScript",
+		"C++",
+		"PowerShell"
+	],
+	"priority": 9
+}

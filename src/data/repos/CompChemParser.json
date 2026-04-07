@@ -1,0 +1,34 @@
+{
+	"name": "CompChemParser",
+	"description": null,
+	"url": "https://github.com/Noboroto/CompChemParser",
+	"homepage": null,
+	"language": "Python",
+	"topics": [
+		"mass-spectrometry",
+		"chemistry",
+		"python",
+		"react",
+		"docker",
+		"full-stack",
+		"data-visualization",
+		"research",
+		"bayesian-scoring"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-03-24T11:13:48Z",
+	"createdAt": "2026-03-17T10:15:30Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "featured",
+	"domain": [
+		"web",
+		"ml",
+		"data-processing"
+	],
+	"displayName": "CompChem Parser",
+	"displayDescription": "Full-stack web app for automated compound identification from mass spectrometry data. Features spectral matching, Bayesian scoring, and molecular network visualization. Contains 2 parts: React frontend with interactive visualizations and Python backend with MS data processing. Used by analytical chemistry researchers. Dockerized.",
+	"private": true,
+	"priority": 5
+}

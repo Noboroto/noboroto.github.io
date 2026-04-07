@@ -89,11 +89,11 @@ const repoLangs = getRepoLanguages(repo);
   </p>
 
   {
-    repo.domain.length > 0 && (
+    repo.topics.length > 0 && (
       <div class="flex flex-wrap gap-1 mb-4">
-        {repo.domain.map((d) => (
-          <span class="px-2 py-0.5 text-xs bg-primary-500/10 text-primary-600 dark:text-primary-400 rounded-full">
-            {d}
+        {repo.topics.map((t) => (
+          <span class="px-2 py-0.5 text-xs bg-slate-100 dark:bg-slate-700/50 text-slate-500 dark:text-slate-400 rounded-full">
+            {t}
           </span>
         ))}
       </div>

@@ -1,0 +1,29 @@
+{
+	"name": "computer-vision",
+	"description": null,
+	"url": "https://github.com/Noboroto/computer-vision",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"computer-vision",
+		"image-processing",
+		"cpp",
+		"cmake",
+		"edge-detection",
+		"filtering",
+		"coursework",
+		"opencv"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-03-21T08:50:57Z",
+	"createdAt": "2024-01-13T15:18:03Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"computer-vision"
+	],
+	"displayDescription": "Low-level computer vision algorithms implemented in C++ from scratch. Needed as educational coursework for CS students studying image processing fundamentals without high-level library abstractions. Contains 4 theory exercises and 3 labs covering filtering, edge detection, feature extraction, built with CMake. Used by HCMUS computer vision students.",
+	"private": true
+}

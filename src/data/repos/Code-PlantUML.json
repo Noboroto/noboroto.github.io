@@ -1,0 +1,25 @@
+{
+	"name": "Code-PlantUML",
+	"description": null,
+	"url": "https://github.com/Noboroto/Code-PlantUML",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"plantuml",
+		"uml",
+		"software-engineering",
+		"diagrams",
+		"oop"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-06-20T01:48:00Z",
+	"createdAt": "2022-07-04T14:25:38Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "UML diagrams created with PlantUML for software engineering courses including class, use-case, and deployment diagrams."
+}

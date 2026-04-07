@@ -1,0 +1,24 @@
+{
+	"name": "2048E-ConMeoUnu",
+	"description": null,
+	"url": "https://github.com/Noboroto/2048E-ConMeoUnu",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"competitive-programming",
+		"codeforces",
+		"algorithms"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-11-19T12:20:44Z",
+	"createdAt": "2022-12-21T06:36:04Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"competitive-programming"
+	],
+	"displayDescription": "C++ solution for Codeforces problem 2048E competitive programming challenge."
+}

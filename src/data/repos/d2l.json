@@ -1,0 +1,26 @@
+{
+	"name": "d2l",
+	"description": null,
+	"url": "https://github.com/Noboroto/d2l",
+	"homepage": null,
+	"language": "Jupyter Notebook",
+	"topics": [
+		"deep-learning",
+		"jupyter",
+		"python",
+		"neural-networks",
+		"machine-learning"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-05-25T17:56:04Z",
+	"createdAt": "2024-03-24T02:56:47Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"ml",
+		"learning"
+	],
+	"displayDescription": "Exercises and notebooks from the Dive into Deep Learning (d2l.ai) textbook covering CNNs, RNNs, GANs, and NLP."
+}

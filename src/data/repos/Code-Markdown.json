@@ -1,0 +1,24 @@
+{
+	"name": "Code-Markdown",
+	"description": null,
+	"url": "https://github.com/Noboroto/Code-Markdown",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"markdown",
+		"oop",
+		"study-notes",
+		"cpp"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2022-11-29T05:19:43Z",
+	"createdAt": "2021-06-07T03:33:24Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "Markdown notes for OOP concepts including constructors, copy constructors, and object-oriented principles."
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Computer-Graphics",
+	"description": null,
+	"url": "https://github.com/Noboroto/Computer-Graphics",
+	"homepage": null,
+	"language": "JavaScript",
+	"topics": [
+		"webgl",
+		"computer-graphics",
+		"javascript",
+		"bresenham-algorithm",
+		"rendering",
+		"canvas",
+		"academic-project",
+		"2d-graphics",
+		"html5"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-02-24T09:01:57Z",
+	"createdAt": "2023-11-16T15:35:33Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "WebGL-based computer graphics demos implementing fundamental rendering algorithms. Course assignments covering Bresenham's line drawing, ellipse/parabola/hyperbola plotting, and interactive canvas drawing with configurable colors and stroke sizes. Used by CS students learning 2D graphics programming at HCMUS. Built with JavaScript, HTML5 Canvas, WebGL.",
+	"private": true
+}

@@ -1,0 +1,36 @@
+{
+	"name": "sab_preoder",
+	"description": null,
+	"url": "https://github.com/Noboroto/sab_preoder",
+	"homepage": null,
+	"language": "HTML",
+	"topics": [
+		"typescript",
+		"expressjs",
+		"nodejs",
+		"mongoose",
+		"mysql",
+		"sqlite",
+		"zod",
+		"docker",
+		"nodemailer",
+		"rest-api",
+		"preorder-system",
+		"student-club"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-11-24T12:19:18Z",
+	"createdAt": "2023-02-22T09:55:52Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Backend API server for SAB merchandise preorder management. Needed to streamline order collection for student org fundraisers and event merchandise. Works as a REST API handling order CRUD, payment tracking, and email confirmations. Contains Express.js server with Zod validation, Mongoose/MySQL data layer, and Nodemailer email service. Used by HCMUS SAB officers managing merchandise campaigns. Built with TypeScript, Express.js, MongoDB/MySQL, Docker.",
+	"languages": [
+		"TypeScript",
+		"JavaScript"
+	]
+}

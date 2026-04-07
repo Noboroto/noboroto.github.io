@@ -1,0 +1,28 @@
+{
+	"name": "claudekit-engineer-clone",
+	"description": null,
+	"url": "https://github.com/Noboroto/claudekit-engineer-clone",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"typescript",
+		"cli",
+		"claude",
+		"ai-tooling",
+		"developer-tools",
+		"automation"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-03-14T09:09:48Z",
+	"createdAt": "2025-04-15T09:22:48Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "core",
+	"domain": [
+		"cli-tool"
+	],
+	"displayName": "ClaudeKit Engineer",
+	"displayDescription": "CLI toolkit for bootstrapping structured Claude Code workflows with rules, hooks, and reusable templates. Contains engineer and CLI modules for AI-assisted development automation. Built with TypeScript.",
+	"private": true
+}

@@ -1,0 +1,25 @@
+{
+	"name": "lmsys-chatbot-arena",
+	"description": null,
+	"url": "https://github.com/Noboroto/lmsys-chatbot-arena",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"llm",
+		"chatbot",
+		"benchmarking",
+		"machine-learning",
+		"fork"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-07-30T21:08:22Z",
+	"createdAt": "2024-11-01T15:47:27Z",
+	"isFork": true,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"ml"
+	],
+	"displayDescription": "Fork of the LMSYS Chatbot Arena for LLM evaluation and benchmarking experiments."
+}

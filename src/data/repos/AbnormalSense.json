@@ -1,0 +1,37 @@
+{
+	"name": "AbnormalSense",
+	"description": null,
+	"url": "https://github.com/Noboroto/AbnormalSense",
+	"homepage": null,
+	"language": "Python",
+	"topics": [
+		"computer-vision",
+		"deep-learning",
+		"pytorch-lightning",
+		"face-recognition",
+		"pose-estimation",
+		"anomaly-detection",
+		"fastapi",
+		"docker",
+		"arcface",
+		"object-tracking",
+		"microservices",
+		"bytetrack",
+		"st-gcn"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-02-25T09:58:30Z",
+	"createdAt": "2024-11-14T09:44:36Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"ml",
+		"computer-vision",
+		"data-processing"
+	],
+	"displayDescription": "Real-time security monitoring system detecting strangers and abnormal behaviors in video streams. Needed for automated surveillance in restricted areas without manual monitoring. Works by combining face recognition (ArcFace/RetinaFace), pose estimation (HRNet/YOLO-Pose), object tracking (ByteTrack), and skeleton-based behavior analysis (ST-GCN) in a dual pipeline. Contains 4 parts: face recognition service, pose estimation service, behavior analysis engine, and FastAPI serving layer. Used by security teams. Built with PyTorch Lightning, FastAPI, Docker microservices.",
+	"private": true,
+	"priority": 10
+}

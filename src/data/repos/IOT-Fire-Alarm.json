@@ -1,0 +1,40 @@
+{
+	"name": "IOT-Fire-Alarm",
+	"description": null,
+	"url": "https://github.com/Noboroto/IOT-Fire-Alarm",
+	"homepage": null,
+	"language": "CSS",
+	"topics": [
+		"iot",
+		"arduino",
+		"fire-alarm",
+		"react",
+		"nodejs",
+		"express",
+		"docker",
+		"chart-js",
+		"mui",
+		"embedded-systems",
+		"real-time",
+		"sensor-monitoring"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-08-14T03:53:15Z",
+	"createdAt": "2023-06-15T08:40:42Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"iot",
+		"web"
+	],
+	"displayName": "IoT Fire Alarm",
+	"displayDescription": "Full-stack IoT fire alarm system with real-time monitoring. Needed for affordable fire detection in homes, labs, or small buildings. Works by reading sensor data from Arduino, sending it to a Node.js/Express backend API, and displaying real-time graphs on a React dashboard with Chart.js. Contains 3 parts: Arduino sensor firmware (C++), Express backend API, and React + MUI frontend. Dockerized with Docker Compose.",
+	"languages": [
+		"CSS",
+		"JavaScript",
+		"C++",
+		"HTML"
+	]
+}

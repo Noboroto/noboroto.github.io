@@ -1,0 +1,31 @@
+{
+	"name": "Human-Action-Regconition",
+	"description": null,
+	"url": "https://github.com/Noboroto/Human-Action-Regconition",
+	"homepage": null,
+	"language": "TeX",
+	"topics": [
+		"latex",
+		"research-report",
+		"human-action-recognition",
+		"computer-vision",
+		"academic",
+		"university-project",
+		"deep-learning",
+		"pose-estimation"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-04-21T16:54:35Z",
+	"createdAt": "2024-05-01T09:27:48Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"ml",
+		"computer-vision"
+	],
+	"displayName": "Human Action Recognition",
+	"displayDescription": "LaTeX research report and presentation on human action recognition techniques for a computer vision course. Contains PDF report, PowerPoint slides, bibliography, and reference images covering pose estimation and activity classification using deep learning. Used as academic reference for CV researchers.",
+	"private": true
+}

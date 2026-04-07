@@ -1,0 +1,36 @@
+{
+	"name": "DiaChi2Cap",
+	"description": "Ứng dụng chuyển đổi địa chỉ 2 cấp - Windows portable GUI app",
+	"url": "https://github.com/Noboroto/DiaChi2Cap",
+	"homepage": null,
+	"language": "Python",
+	"topics": [
+		"vietnamese-address",
+		"address-conversion",
+		"customtkinter",
+		"python-gui",
+		"windows-desktop",
+		"batch-processing",
+		"excel",
+		"api-client",
+		"pyinstaller",
+		"vietnam"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-04-07T09:44:23Z",
+	"createdAt": "2025-04-10T09:26:14Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"desktop-app",
+		"data-processing"
+	],
+	"displayDescription": "Windows GUI tool for batch-converting Vietnamese addresses from old format to the new 2-level administrative format. Needed because Vietnam reformed its administrative structure and millions of address records need updating. Works by calling the address-converter.io.vn API in batches of 1000 with rate-limit retry. Contains CustomTkinter desktop UI with TXT/Excel file input and progress tracking. Used by government workers, logistics teams, and data administrators. Built with Python, CustomTkinter, PyInstaller for portable exe.",
+	"languages": [
+		"Python",
+		"PowerShell"
+	],
+	"priority": 6
+}

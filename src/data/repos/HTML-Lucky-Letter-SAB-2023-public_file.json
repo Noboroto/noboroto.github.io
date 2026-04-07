@@ -1,0 +1,28 @@
+{
+	"name": "HTML-Lucky-Letter-SAB-2023-public_file",
+	"description": null,
+	"url": "https://github.com/Noboroto/HTML-Lucky-Letter-SAB-2023-public_file",
+	"homepage": null,
+	"language": "HTML",
+	"topics": [
+		"html-email",
+		"email-assets",
+		"sab",
+		"static-assets",
+		"lucky-letter",
+		"image-hosting",
+		"hcmus"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-01-20T15:52:58Z",
+	"createdAt": "2023-02-15T04:18:17Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayName": "SAB Lucky Letter 2023 (Public)",
+	"displayDescription": "Public image assets (header and footer PNG banners) hosted via GitHub for the SAB Lucky Letter 2023 HTML email campaign. Used as a CDN for email template images by SAB communications team."
+}

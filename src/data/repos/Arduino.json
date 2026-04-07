@@ -1,0 +1,28 @@
+{
+	"name": "Arduino",
+	"description": null,
+	"url": "https://github.com/Noboroto/Arduino",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"arduino",
+		"iot",
+		"embedded-systems",
+		"firmware",
+		"led-control",
+		"microcontroller",
+		"coursework"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-06-13T08:55:57Z",
+	"createdAt": "2022-06-08T08:07:16Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"iot"
+	],
+	"displayDescription": "Arduino IoT firmware projects for university embedded systems coursework. Contains labs and quizzes implementing LED control patterns with button input on Arduino microcontrollers. Used by students prototyping embedded systems at HCMUS. Built with C++/Arduino.",
+	"private": true
+}

@@ -1,0 +1,26 @@
+{
+	"name": "computer-vision-flies",
+	"description": "Store my file in Computer Vision Major",
+	"url": "https://github.com/Noboroto/computer-vision-flies",
+	"homepage": null,
+	"language": "Jupyter Notebook",
+	"topics": [
+		"computer-vision",
+		"opencv",
+		"jupyter",
+		"image-processing",
+		"coursework"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-11-25T07:10:03Z",
+	"createdAt": "2024-01-17T02:11:45Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"computer-vision",
+		"learning"
+	],
+	"displayDescription": "Computer vision coursework files including OpenCV notebooks, image processing labs, and graphics assignments."
+}

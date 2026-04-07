@@ -1,0 +1,23 @@
+{
+	"name": "Code-Java",
+	"description": null,
+	"url": "https://github.com/Noboroto/Code-Java",
+	"homepage": null,
+	"language": "Java",
+	"topics": [
+		"java",
+		"coursework",
+		"programming-fundamentals"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-12-14T03:46:11Z",
+	"createdAt": "2021-07-12T05:57:44Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "Java code collection containing university coursework and practice exercises."
+}

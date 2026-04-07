@@ -1,0 +1,35 @@
+{
+	"name": "Network-Socket",
+	"description": null,
+	"url": "https://github.com/Noboroto/Network-Socket",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"csharp",
+		"tcp-socket",
+		"http-server",
+		"network-programming",
+		"socket-programming",
+		"web-server",
+		"dotnet",
+		"academic-project",
+		"latex-report"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-01-05T04:34:36Z",
+	"createdAt": "2022-10-10T08:00:18Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"desktop-app"
+	],
+	"displayDescription": "Custom HTTP web server built from scratch using TCP sockets in C#. Created to learn networking fundamentals hands-on. Features user authentication, HTTP request/response handling, and static file serving. Contains 2 parts: C# web server implementation and LaTeX academic report documenting the architecture. Used as a networking course reference at HCMUS.",
+	"languages": [
+		"C#",
+		"TeX",
+		"CSS",
+		"HTML"
+	]
+}

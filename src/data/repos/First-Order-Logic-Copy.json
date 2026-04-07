@@ -1,0 +1,33 @@
+{
+	"name": "First-Order-Logic-Copy",
+	"description": null,
+	"url": "https://github.com/Noboroto/First-Order-Logic-Copy",
+	"homepage": null,
+	"language": "Prolog",
+	"topics": [
+		"first-order-logic",
+		"prolog",
+		"artificial-intelligence",
+		"knowledge-base",
+		"inference-engine",
+		"csharp",
+		"swi-prolog",
+		"logic-programming",
+		"coursework"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-07-28T16:32:50Z",
+	"createdAt": "2023-10-16T05:59:36Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"data-processing"
+	],
+	"displayDescription": "First-order logic knowledge base system with automated inference. Built as an AI course group project to demonstrate logical reasoning concepts. Works by defining facts and rules in SWI-Prolog, then querying via a C# simulation frontend. Contains 2 parts: Prolog inference engine (with animal classification and royal family examples) and C# GUI. Used by AI students studying formal logic and automated reasoning.",
+	"languages": [
+		"Prolog",
+		"C#"
+	]
+}

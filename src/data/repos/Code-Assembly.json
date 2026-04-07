@@ -1,0 +1,24 @@
+{
+	"name": "Code-Assembly",
+	"description": null,
+	"url": "https://github.com/Noboroto/Code-Assembly",
+	"homepage": null,
+	"language": "Assembly",
+	"topics": [
+		"assembly",
+		"x86",
+		"tasm",
+		"low-level-programming"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2022-06-27T12:29:57Z",
+	"createdAt": "2022-06-09T06:37:31Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "x86 assembly language practice code with 16-bit and TASM assembler exercises."
+}

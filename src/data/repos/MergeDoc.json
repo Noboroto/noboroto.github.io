@@ -1,0 +1,29 @@
+{
+	"name": "MergeDoc",
+	"description": null,
+	"url": "https://github.com/Noboroto/MergeDoc",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"document-merge",
+		"pdf-converter",
+		"wpf",
+		"csharp",
+		"dotnet",
+		"office-converter",
+		"windows-desktop",
+		"desktop-utility"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2022-05-05T14:18:58Z",
+	"createdAt": "2021-08-23T06:49:10Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"desktop-app"
+	],
+	"displayDescription": "Windows utility for merging and converting Office documents to PDF. Saves time for office workers and students combining reports, certificates, or assignment submissions in batch. Uses the OfficeConverter library for format conversion. Contains 2 parts: MergeDocLib (conversion engine) and MergeDocUI (WPF interface). Built with C#, WPF, .NET.",
+	"private": true
+}

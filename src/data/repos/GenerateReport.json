@@ -1,0 +1,31 @@
+{
+	"name": "GenerateReport",
+	"description": null,
+	"url": "https://github.com/Noboroto/GenerateReport",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"csharp",
+		"wpf",
+		"mvvm",
+		"report-generator",
+		"material-design",
+		"desktop-app",
+		"dotnet",
+		"xaml",
+		"automation"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-08-20T11:28:08Z",
+	"createdAt": "2021-09-06T15:36:06Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"desktop-app",
+		"cli-tool"
+	],
+	"displayDescription": "Automated report generator desktop application. Reduces repetitive paperwork for administrative staff compiling periodic reports from structured data. Contains a WPF app with MVVM architecture, Material Design UI, file management, and templated report output. Built with C#, WPF, .NET.",
+	"private": true
+}

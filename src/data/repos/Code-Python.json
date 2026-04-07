@@ -1,0 +1,24 @@
+{
+	"name": "Code-Python",
+	"description": null,
+	"url": "https://github.com/Noboroto/Code-Python",
+	"homepage": null,
+	"language": "Python",
+	"topics": [
+		"python",
+		"competitive-programming",
+		"scripting",
+		"utilities"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2026-04-07T10:37:38Z",
+	"createdAt": "2021-04-04T04:39:07Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "Python code collection with competitive programming solutions, utility scripts, and git submodule projects."
+}

@@ -1,0 +1,37 @@
+{
+	"name": "SolarrBoost",
+	"description": null,
+	"url": "https://github.com/Noboroto/SolarrBoost",
+	"homepage": null,
+	"language": "JavaScript",
+	"topics": [
+		"solar-energy",
+		"full-stack",
+		"javascript",
+		"typescript",
+		"scss",
+		"web-app",
+		"docker",
+		"energy-monitoring"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-03-19T15:19:19Z",
+	"createdAt": "2024-10-29T08:04:50Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Full-stack solar energy production tracking application with separate frontend and backend services. Helps homeowners and small solar operators visualize energy generation data.",
+	"languages": [
+		"JavaScript",
+		"TypeScript",
+		"SCSS",
+		"CSS",
+		"HTML",
+		"Dockerfile",
+		"Shell"
+	]
+}

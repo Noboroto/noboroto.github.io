@@ -18,6 +18,7 @@ export interface RepoData {
   displayName?: string;
   displayDescription?: string;
   coverImage?: string;
+  priority?: number;
 }
 
 export interface ProfileData {

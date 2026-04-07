@@ -1,0 +1,31 @@
+{
+	"name": "KnowledgeDome",
+	"description": null,
+	"url": "https://github.com/Noboroto/KnowledgeDome",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"csharp",
+		"wpf",
+		"quiz-game",
+		"multiplayer",
+		"client-server",
+		"trivia",
+		"desktop-app",
+		"dotnet",
+		"game-development"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2021-09-03T07:10:04Z",
+	"createdAt": "2022-12-14T05:37:47Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"desktop-app",
+		"game"
+	],
+	"displayDescription": "Multiplayer trivia quiz game (KnowledgeDuels) with client-server architecture. Lets students and quiz enthusiasts practice general knowledge in competitive game sessions. Contains 2 parts: WPF game client and server-side management interface for hosting quiz sessions. Built with C#, WPF, .NET.",
+	"private": true
+}

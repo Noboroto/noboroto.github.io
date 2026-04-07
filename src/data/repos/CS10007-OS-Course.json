@@ -1,0 +1,24 @@
+{
+	"name": "CS10007-OS-Course",
+	"description": null,
+	"url": "https://github.com/Noboroto/CS10007-OS-Course",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"operating-systems",
+		"nachos",
+		"coursework",
+		"systems-programming"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-02-11T01:29:10Z",
+	"createdAt": "2023-04-20T01:55:25Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "Operating Systems course (CS10007) materials including NachOS implementation project files."
+}

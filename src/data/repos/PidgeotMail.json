@@ -1,0 +1,34 @@
+{
+	"name": "PidgeotMail",
+	"description": null,
+	"url": "https://github.com/Noboroto/PidgeotMail",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"csharp",
+		"wpf",
+		"mvvm",
+		"gmail-api",
+		"google-sheets-api",
+		"mail-merge",
+		"bulk-email",
+		"dotnet-framework",
+		"material-design",
+		"mimekit",
+		"epplus",
+		"desktop-application",
+		"auto-updater"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2022-12-17T15:42:06Z",
+	"createdAt": "2021-01-31T12:49:27Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"desktop-app"
+	],
+	"displayDescription": "Desktop mail merge application for Gmail that sends personalized bulk emails. Solves the problem of sending hundreds of individually customized emails (grade reports, event invitations, certificates). Works by pulling templates from Gmail drafts, merging recipient data from Google Sheets or Excel, and sending via Gmail API with per-recipient CC/BCC and attachments. Contains 2 parts: WPF desktop client (MVVM + Material Design) and Google API integration layer. Used by teachers, student organizations, and office teams. Built with C#, MimeKit, EPPlus, with auto-updater support.",
+	"priority": 6
+}

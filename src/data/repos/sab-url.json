@@ -1,0 +1,32 @@
+{
+	"name": "sab-url",
+	"description": null,
+	"url": "https://github.com/Noboroto/sab-url",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"typescript",
+		"shlink",
+		"url-shortener",
+		"docker-compose",
+		"mariadb",
+		"oauth2-proxy",
+		"nginx",
+		"self-hosted",
+		"student-club",
+		"vite",
+		"docker"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-10-13T15:54:00Z",
+	"createdAt": "2024-02-10T03:10:35Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Self-hosted URL shortener service for SAB at t.sab.edu.vn. Needed for creating branded short links for event promotions and social media campaigns. Powered by Shlink with a custom web client frontend, MariaDB database, and OAuth2 proxy for member-only access. Contains 3 parts: Shlink backend, custom frontend client, and Nginx reverse proxy. Used by SAB board officers. Deployed via Docker Compose.",
+	"private": true
+}

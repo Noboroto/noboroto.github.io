@@ -1,0 +1,30 @@
+{
+	"name": "Python-Web-Crawler",
+	"description": null,
+	"url": "https://github.com/Noboroto/Python-Web-Crawler",
+	"homepage": null,
+	"language": "Python",
+	"topics": [
+		"python",
+		"web-scraping",
+		"beautifulsoup",
+		"requests",
+		"web-crawler",
+		"html-parsing",
+		"data-extraction",
+		"vietnamese"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-02-01T13:06:58Z",
+	"createdAt": "2023-05-22T16:31:37Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"data-processing",
+		"cli-tool"
+	],
+	"displayDescription": "Web scraper that crawls Vietnamese novel chapters from truyenchu.vn. Needed for offline reading of web novels. Works by using BeautifulSoup and Requests to extract chapter text and generate an HTML table of contents. Contains a Python scraping script with chapter discovery and content extraction. Built with Python, BeautifulSoup, Requests.",
+	"private": true
+}

@@ -1,0 +1,33 @@
+{
+	"name": "font-image-generator",
+	"description": null,
+	"url": "https://github.com/Noboroto/font-image-generator",
+	"homepage": null,
+	"language": "JavaScript",
+	"topics": [
+		"javascript",
+		"react",
+		"threejs",
+		"react-three-fiber",
+		"vite",
+		"tailwindcss",
+		"3d-rendering",
+		"font-preview",
+		"image-generation",
+		"opentype",
+		"docker"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-12-11T05:43:44Z",
+	"createdAt": "2024-09-25T13:47:32Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Web app that generates 3D rendered font preview images. Helps designers and developers evaluate typefaces before committing to a design. Works by rendering uploaded font files as stylized 3D text using React Three Fiber with configurable materials, lighting, and camera angles, then exporting as images. Contains React frontend with Three.js 3D scene and opentype.js font parser. Used by graphic designers and font enthusiasts. Built with JavaScript, React, Three.js, Vite, Tailwind CSS.",
+	"private": true,
+	"priority": 5
+}

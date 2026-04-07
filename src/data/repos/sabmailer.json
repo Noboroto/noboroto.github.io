@@ -1,0 +1,32 @@
+{
+	"name": "sabmailer",
+	"description": null,
+	"url": "https://github.com/Noboroto/sabmailer",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"typescript",
+		"nodemailer",
+		"email-automation",
+		"gmail-smtp",
+		"html-email",
+		"bulk-email",
+		"sab",
+		"cli-tool",
+		"csv-parsing"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-10-17T02:31:25Z",
+	"createdAt": "2024-07-29T09:37:29Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"cli-tool",
+		"automation"
+	],
+	"displayName": "SAB Mailer",
+	"displayDescription": "Email automation CLI tool for HCMUS SAB communications. Needed to streamline bulk sending of recruitment results, event invitations, and announcements. Works by parsing CSV recipient lists, replacing placeholders in HTML email templates, and sending via Gmail SMTP using Nodemailer. Built with TypeScript.",
+	"private": true
+}

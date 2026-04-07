@@ -1,0 +1,39 @@
+{
+	"name": "alumni-manager",
+	"description": null,
+	"url": "https://github.com/Noboroto/alumni-manager",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"typescript",
+		"react",
+		"expressjs",
+		"postgresql",
+		"prisma",
+		"elasticsearch",
+		"material-ui",
+		"redux-toolkit",
+		"tanstack-query",
+		"better-auth",
+		"docker",
+		"pnpm",
+		"excel-import",
+		"rbac",
+		"vite",
+		"university-management"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-10-29T13:40:42Z",
+	"createdAt": "2025-05-06T05:39:06Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "featured",
+	"domain": [
+		"web"
+	],
+	"displayName": "Student Info Manager",
+	"displayDescription": "Full-stack student information management system for Vietnamese universities. Needed to help university admins track graduates, generate reports, and manage alumni data at scale. Features dashboard analytics, Elasticsearch-powered full-text search, Excel import/export, and role-based access control via Better Auth. Contains 2 parts: React + MUI + Redux Toolkit frontend, and Express.js + Prisma + PostgreSQL backend. Used by university administrative staff. Dockerized with production compose.",
+	"private": true,
+	"priority": 8
+}

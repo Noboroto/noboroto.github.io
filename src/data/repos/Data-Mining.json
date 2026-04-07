@@ -1,0 +1,31 @@
+{
+	"name": "Data-Mining",
+	"description": null,
+	"url": "https://github.com/Noboroto/Data-Mining",
+	"homepage": null,
+	"language": "Python",
+	"topics": [
+		"data-mining",
+		"jupyter-notebook",
+		"python",
+		"classification",
+		"clustering",
+		"data-preprocessing",
+		"scikit-learn",
+		"machine-learning",
+		"coursework"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-12-29T16:44:30Z",
+	"createdAt": "2024-02-23T04:27:57Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"data-processing",
+		"ml"
+	],
+	"displayDescription": "Jupyter notebook labs for university Data Mining course (CSC14004). Needed as hands-on coursework for CS students learning practical data mining at HCMUS. Contains 3 labs: data preprocessing (Lab 1), classification (Lab 2), and clustering (Lab 3), each with PDF specs and Jupyter notebooks. Uses Python, scikit-learn, pandas.",
+	"private": true
+}

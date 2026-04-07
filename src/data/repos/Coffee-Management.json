@@ -1,0 +1,32 @@
+{
+	"name": "Coffee-Management",
+	"description": null,
+	"url": "https://github.com/Noboroto/Coffee-Management",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"csharp",
+		"wpf",
+		"desktop-app",
+		"clean-architecture",
+		"entity-framework",
+		"mvvm",
+		"plugin-system",
+		"management-system",
+		"university-project",
+		"sql-server",
+		"pos-system",
+		"docker"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-04-24T14:37:18Z",
+	"createdAt": "2022-01-03T13:01:21Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"desktop-app"
+	],
+	"displayDescription": "Coffee shop management desktop app handling orders, menu, and inventory. Designed for small cafe owners in Vietnam needing a lightweight POS system without subscription fees. Features clean architecture (Core/Infrastructure/Presentation layers), Entity Framework ORM, and a plugin system for extensibility. Contains 4 architectural layers with WPF MVVM frontend and SQL Server database. Built with C#, WPF."
+}

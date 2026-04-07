@@ -1,0 +1,25 @@
+{
+	"name": "Lab-3-Sorting",
+	"description": null,
+	"url": "https://github.com/Noboroto/Lab-3-Sorting",
+	"homepage": null,
+	"language": "C++",
+	"topics": [
+		"cpp",
+		"sorting-algorithms",
+		"data-structures",
+		"lab-assignment",
+		"performance-benchmarking"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-07-19T14:33:48Z",
+	"createdAt": "2022-04-22T03:17:28Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "DSA lab implementing and benchmarking multiple sorting algorithms in C++ with performance measurement and reporting."
+}

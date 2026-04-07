@@ -1,0 +1,32 @@
+{
+	"name": "SAB-Delegate",
+	"description": null,
+	"url": "https://github.com/Noboroto/SAB-Delegate",
+	"homepage": null,
+	"language": "TypeScript",
+	"topics": [
+		"typescript",
+		"discord-js",
+		"discord-bot",
+		"sqlite",
+		"better-sqlite3",
+		"docker",
+		"node-schedule",
+		"slash-commands",
+		"student-club",
+		"automation",
+		"hcmus"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-02-24T07:49:16Z",
+	"createdAt": "2024-02-27T10:33:36Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"bot",
+		"automation"
+	],
+	"displayDescription": "Discord bot for HCMUS Student Activities Board server management. Needed to automate repetitive admin tasks for a large student organization Discord server. Features 14+ slash commands: attendance tracking by role, polls, birthday reminders, scheduled announcements, notes, word dictionary, bulk role assignment, message purge, and thread management. Contains TypeScript bot with discord.js v14, SQLite persistence via better-sqlite3, and Docker deployment. Supports multiple bot tokens. Used by SAB board officers."
+}

@@ -1,0 +1,24 @@
+{
+	"name": "applied-graphic",
+	"description": null,
+	"url": "https://github.com/Noboroto/applied-graphic",
+	"homepage": null,
+	"language": "TeX",
+	"topics": [
+		"latex",
+		"computer-graphics",
+		"coursework",
+		"homework"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-01-22T15:44:32Z",
+	"createdAt": "2024-01-05T07:43:41Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"learning"
+	],
+	"displayDescription": "Applied graphics course homework using LaTeX for documentation and computer graphics assignments."
+}

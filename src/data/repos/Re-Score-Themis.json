@@ -1,0 +1,30 @@
+{
+	"name": "Re-Score-Themis",
+	"description": "Chấm và Update BXH bằng Themis",
+	"url": "https://github.com/Noboroto/Re-Score-Themis",
+	"homepage": null,
+	"language": "C#",
+	"topics": [
+		"csharp",
+		"dotnet-framework",
+		"competitive-programming",
+		"themis-judge",
+		"scoring-automation",
+		"console-application",
+		"file-processing",
+		"leaderboard",
+		"vietnam-education"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2020-07-15T07:20:09Z",
+	"createdAt": "2021-01-14T13:59:15Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "specialized",
+	"domain": [
+		"desktop-app",
+		"cli-tool"
+	],
+	"displayDescription": "Automated scoring tool for the Themis Online Judge system. Reorganizes contestant submissions and regenerates scoring logs/leaderboards, saving Vietnamese competitive programming contest organizers from manual score tallying. Built as a C# console app that processes submission files and outputs structured results. Used by contest staff at Vietnamese informatics competitions."
+}

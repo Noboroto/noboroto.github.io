@@ -1,0 +1,33 @@
+{
+	"name": "GDSCxSAB-cs101-backend",
+	"description": null,
+	"url": "https://github.com/Noboroto/GDSCxSAB-cs101-backend",
+	"homepage": null,
+	"language": "JavaScript",
+	"topics": [
+		"javascript",
+		"nodejs",
+		"expressjs",
+		"mongodb",
+		"mongoose",
+		"jwt-authentication",
+		"nodemailer",
+		"rest-api",
+		"education-platform",
+		"google-auth",
+		"security",
+		"rate-limiting"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2023-06-27T18:53:31Z",
+	"createdAt": "2023-03-23T11:59:00Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "REST API backend for the CS101 intro programming course platform, a GDSC x SAB collaboration at HCMUS. Provides the server-side infrastructure for first-year CS students learning online. Features JWT auth with email verification, Google OAuth, lesson management, and commenting system with rate limiting. Contains Express.js server, MongoDB data layer, and Nodemailer email service. Used by CS101 students and instructors at HCMUS.",
+	"private": true
+}

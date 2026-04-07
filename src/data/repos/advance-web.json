@@ -1,0 +1,23 @@
+{
+	"name": "advance-web",
+	"description": null,
+	"url": "https://github.com/Noboroto/advance-web",
+	"homepage": null,
+	"language": null,
+	"topics": [
+		"web-development",
+		"coursework",
+		"javascript"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2024-10-15T08:43:59Z",
+	"createdAt": "2023-07-25T09:53:30Z",
+	"isFork": false,
+	"visible": false,
+	"tier": "learning",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Advanced web development course exercises and projects."
+}

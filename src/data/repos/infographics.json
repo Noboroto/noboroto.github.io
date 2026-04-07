@@ -1,0 +1,35 @@
+{
+	"name": "infographics",
+	"description": null,
+	"url": "https://github.com/Noboroto/infographics",
+	"homepage": null,
+	"language": "HTML",
+	"topics": [
+		"html",
+		"javascript",
+		"tailwindcss",
+		"infographic",
+		"data-visualization",
+		"university",
+		"hcmus",
+		"docker",
+		"png-export",
+		"responsive-design",
+		"html2canvas"
+	],
+	"stars": 0,
+	"forks": 0,
+	"updatedAt": "2025-07-29T19:13:34Z",
+	"createdAt": "2024-02-22T14:00:37Z",
+	"isFork": false,
+	"visible": true,
+	"tier": "core",
+	"domain": [
+		"web"
+	],
+	"displayDescription": "Interactive infographic website showcasing HCMUS Faculty of Information Technology departments (CS, AI, SE, Data Science). Needed for university open days and department promotion. Features responsive design with exportable PNG/ZIP output via html2canvas. Contains HTML pages with Tailwind CSS styling and Docker support. Used by HCMUS FIT for outreach materials.",
+	"languages": [
+		"HTML",
+		"JavaScript"
+	]
+}
