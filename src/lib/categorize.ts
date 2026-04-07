@@ -18,7 +18,7 @@ export function getByTier(tier: RepoData['tier']): RepoData[] {
 }
 
 export function getLearningRepos(): RepoData[] {
-  return getAllRepos().filter((r) => r.tier === 'learning');
+  return getAllRepos().filter((r) => r.tier === 'learning' && r.visible);
 }
 
 export function getFeatured(): RepoData[] {

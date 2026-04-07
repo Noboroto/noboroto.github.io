@@ -12,32 +12,23 @@ interface Props {
 
 const { repos, learningRepos: learningReposFromProps = [], domains, languages } = Astro.props;
 
-const mainRepos = repos.filter((r) => r.tier !== 'learning');
-const learningRepos = learningReposFromProps.length > 0
-  ? learningReposFromProps
-  : repos.filter((r) => r.tier === 'learning');
+const allRepos = [
+  ...repos.filter((r) => r.tier !== 'learning'),
+  ...learningReposFromProps,
+].sort((a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime());
 ---
 
 <section id="projects" class="py-20 bg-slate-50 dark:bg-slate-800/50">
   <div class="container mx-auto px-4">
     <h2 class="text-2xl sm:text-3xl font-bold mb-4 text-center">All Projects</h2>
     <p class="text-slate-600 dark:text-slate-400 text-center mb-8">
-      {repos.length + learningRepos.length} repositories across {languages.length} languages
+      {allRepos.length} repositories across {languages.length} languages
     </p>
 
     <FilterBar domains={domains} languages={languages} />
 
     <div id="project-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-      {mainRepos.map((repo) => <ProjectCard repo={repo} />)}
-    </div>
-
-    <div
-      id="learning-grid"
-      class="hidden mt-6 pt-6 border-t border-slate-200 dark:border-slate-700"
-    >
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-        {learningRepos.map((repo) => <ProjectCard repo={repo} />)}
-      </div>
+      {allRepos.map((repo) => <ProjectCard repo={repo} />)}
     </div>
   </div>
 </section>
@@ -47,8 +38,6 @@ const learningRepos = learningReposFromProps.length > 0
   const sortSelect = document.getElementById('project-sort') as HTMLSelectElement;
   const filterBtns = document.querySelectorAll('.filter-btn');
   const clearBtn = document.getElementById('clear-filters');
-  const showLearning = document.getElementById('show-learning') as HTMLInputElement;
-  const learningGrid = document.getElementById('learning-grid');
   const projectGrid = document.getElementById('project-grid');
   const resultCount = document.getElementById('result-count');
   const activeFiltersDiv = document.getElementById('active-filters');
@@ -56,8 +45,7 @@ const learningRepos = learningReposFromProps.length > 0
   const activeFilters: Map<string, Set<string>> = new Map();
 
   function getCards(): HTMLElement[] {
-    const grids = showLearning?.checked ? [projectGrid, learningGrid] : [projectGrid];
-    return grids.flatMap((g) => Array.from(g?.querySelectorAll('article') || []));
+    return Array.from(projectGrid?.querySelectorAll('article') || []);
   }
 
   function applyFilters() {
@@ -143,11 +131,6 @@ const learningRepos = learningReposFromProps.length > 0
       btn.classList.remove('bg-primary-500', 'text-white', 'border-primary-500'),
     );
     if (searchInput) searchInput.value = '';
-    applyFilters();
-  });
-
-  showLearning?.addEventListener('change', () => {
-    learningGrid?.classList.toggle('hidden', !showLearning.checked);
     applyFilters();
   });
 </script>

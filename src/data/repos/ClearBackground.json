@@ -18,7 +18,7 @@
 	"updatedAt": "2022-06-29T15:29:01Z",
 	"createdAt": "2021-09-02T12:01:09Z",
 	"isFork": false,
-	"visible": true,
+	"visible": false,
 	"tier": "specialized",
 	"domain": [
 		"desktop-app",

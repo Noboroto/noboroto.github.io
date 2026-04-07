@@ -32,6 +32,7 @@ const langColors: Record<string, string> = {
 };
 
 const repoLangs = getRepoLanguages(repo);
+const updatedYear = new Date(repo.updatedAt).getFullYear();
 ---
 
 <article
@@ -101,6 +102,7 @@ const repoLangs = getRepoLanguages(repo);
   }
 
   <div class="flex items-center gap-3 pt-2 border-t border-slate-100 dark:border-slate-700">
+    <span class="text-xs text-slate-400">{updatedYear}</span>
     {!repo.private && (
       <a
         href={repo.url}

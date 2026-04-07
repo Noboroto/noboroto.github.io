@@ -18,7 +18,7 @@
 	"updatedAt": "2025-05-08T19:49:48Z",
 	"createdAt": "2021-01-17T04:36:06Z",
 	"isFork": false,
-	"visible": false,
+	"visible": true,
 	"tier": "learning",
 	"domain": [
 		"competitive-programming"
