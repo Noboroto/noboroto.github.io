@@ -37,7 +37,7 @@ featured.forEach(r => {
   brief += `- [${name}](${r.url}): ${r.displayDescription || r.description || ''}\n`;
 });
 brief += `\n## Languages\n\n${langs.join(', ')}\n`;
-brief += `\n## Full Content\n\n- [/llms-full.txt](/Portfolio/llms-full.txt)\n`;
+brief += `\n## Full Content\n\n- [/llms-full.txt](/llms-full.txt)\n`;
 
 // llms-full.txt - comprehensive
 function writeSection(title, list) {

@@ -2,7 +2,7 @@
 
 Personal developer portfolio built with **Astro 6** and **Tailwind CSS v4**, deployed to GitHub Pages.
 
-Live: [noboroto.github.io/Portfolio](https://noboroto.github.io/Portfolio)
+Live: [noboroto.github.io](https://noboroto.github.io)
 
 ## Why Astro?
 
@@ -88,7 +88,7 @@ Deployed automatically via GitHub Pages on push to `main`. The Astro config sets
 
 ```js
 site: 'https://noboroto.github.io',
-base: '/Portfolio',
+base: '/',
 output: 'static',
 ```
 
