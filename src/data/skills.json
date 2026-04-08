@@ -32,6 +32,26 @@
 					"level": "beginner"
 				},
 				{
+					"name": "Kotlin",
+					"level": "beginner"
+				},
+				{
+					"name": "Pascal",
+					"level": "intermediate"
+				},
+				{
+					"name": "Prolog",
+					"level": "beginner"
+				},
+				{
+					"name": "Assembly",
+					"level": "beginner"
+				},
+				{
+					"name": "Shell",
+					"level": "intermediate"
+				},
+				{
 					"name": "SQL",
 					"level": "intermediate"
 				},
@@ -73,6 +93,14 @@
 					"level": "intermediate"
 				},
 				{
+					"name": "Express.js",
+					"level": "intermediate"
+				},
+				{
+					"name": "tRPC",
+					"level": "intermediate"
+				},
+				{
 					"name": "Flutter",
 					"level": "beginner"
 				},
@@ -100,6 +128,26 @@
 				{
 					"name": "PostgreSQL",
 					"level": "intermediate"
+				},
+				{
+					"name": "MongoDB",
+					"level": "intermediate"
+				},
+				{
+					"name": "Redis",
+					"level": "beginner"
+				},
+				{
+					"name": "Azure",
+					"level": "intermediate"
+				},
+				{
+					"name": "Nginx",
+					"level": "beginner"
+				},
+				{
+					"name": "MQTT",
+					"level": "beginner"
 				},
 				{
 					"name": "Linux",

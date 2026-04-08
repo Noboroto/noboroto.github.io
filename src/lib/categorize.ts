@@ -36,7 +36,7 @@ export function getRepoLanguages(r: RepoData): string[] {
 
 export function getLanguages(): string[] {
   const langs = new Set(getVisibleRepos().flatMap(getRepoLanguages));
-  return Array.from(langs).sort();
+  return Array.from(langs).filter((lang) => !['HTML', 'CSS'].includes(lang)).sort();
 }
 
 export function getDomains(): string[] {
