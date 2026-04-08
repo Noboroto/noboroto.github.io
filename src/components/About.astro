@@ -35,7 +35,7 @@ const { totalRepos, languages, dockerizedCount } = Astro.props;
       </div>
       <div class="flex flex-wrap gap-2">
         {
-          languages.slice(0, 12).map((lang) => (
+          languages.map((lang) => (
             <span class="px-3 py-1 bg-slate-100 dark:bg-slate-800 rounded-full text-sm font-medium">
               {lang}
             </span>
